@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ViShop</string>
+    <string name="dummy_text">Medium Text</string>
+
+    <!--main screen-->
+    <string name="main_menu_open_drawer">open Drawer</string>
+    <string name="main_menu_close_drawer">close Drawer</string>
+
+    <string name="main_menu_overview">Tổng quan</string>
+    <string name="main_menu_exchange">Giao dịch</string>
+    <string name="main_menu_product_manage">Quản lý sản phẩm</string>
+    <string name="main_menu_partner">Đối tác</string>
+    <string name="main_menu_staff_manage">Quản lý nhân viên</string>
+    <string name="main_menu_agency">Chi nhánh, cửa hàng</string>
+    <string name="main_menu_report">Báo cáo, thống kê</string>
+    
+    <!--exchange screen-->
+    <string name="exchange_bill">Hóa đơn</string>
+    <string name="exchange_sell">Bán hàng</string>
+    <string name="exchange_buy">Nhập hàng</string>
+    <string name="exchange_return_buy">Trả hàng nhập</string>
+    <string name="exchange_return_sell">Trả hàng bán</string>
+
+    <!--product screen-->
+    <string name="product_library">Thư viện</string>
+    <string name="product_list">Danh sách</string>
+    <string name="product_setup_price">Giá</string>
+    <string name="product_type">Chủng loại</string>
+    <string name="product_unit">Đơn vị</string>
+
+    <!--partner screen-->
+    <string name="partner_customer_manage">Quản lý khách hàng</string>
+    <string name="partner_supplier">Nhà cung cấp</string>
+
+    <!--staff screen-->
+    <string name="staff_list">Danh sách nhân viên</string>
+    <string name="staff_group">Nhóm nhân viên</string>
+
+    <!--agency screen-->
+
+    <!--report screen-->
+    <string name="report_day">Cuối ngày</string>
+    <string name="report_sell">Bán hàng</string>
+    <string name="report_product">Hàng hóa</string>
+    <string name="report_customer">Khách hàng</string>
+    <string name="report_supplier">Nhà cung cấp</string>
+    <string name="report_staff">Nhân viên</string>
+    <string name="report_economic">Tài chính</string>
+</resources>
